@@ -14,6 +14,8 @@ Just to make life easier.
 
 Written in Java 11 (OpenJDK 11 LTS)
 
+Dev notes: use IntelliJ IDEA
+
 Intended to be portable but may not tested on some platforms.
 
 
