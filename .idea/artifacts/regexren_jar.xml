@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="regexren:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/regexren_jar</output-path>
+    <root id="archive" name="regexren.jar">
+      <element id="module-output" name="regexren" />
+    </root>
+  </artifact>
+</component>
