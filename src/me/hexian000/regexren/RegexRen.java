@@ -195,8 +195,8 @@ public class RegexRen extends JFrame {
                     }
                     JOptionPane.showMessageDialog(RegexRen.this, sb.toString(),
                             "Error", JOptionPane.ERROR_MESSAGE);
-                    updateList();
                 }
+                updateList();
             }
         });
     }
